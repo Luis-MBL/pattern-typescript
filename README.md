@@ -24,4 +24,5 @@ yarn typeorm migration:run
 4. Inicie o projeto com:
 yarn dev
 
-5. Utilize um software como o Postman para testar os endpoints
+5. Utilize um software para testar os endpoints
+(link da collection utilizada no Postman: https://www.getpostman.com/collections/23acdee2703eb17a1de1)
